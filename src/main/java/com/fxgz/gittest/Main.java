@@ -28,7 +28,9 @@ public class Main {
         System.out.println("第四次提交");
     }
 
-
+    public static void hot_fix_2(){
+        System.out.println("hot_fix第二次");
+    }
 
 
     public static void main(String[] args) {
