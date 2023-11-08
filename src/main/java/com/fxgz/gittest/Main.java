@@ -10,6 +10,14 @@ public class Main {
         System.out.println("2023-11-08");
     }
 
+
+    public static void helloV2(){
+        System.out.println("v2");
+    }
+
+
+
+
     public static void main(String[] args) {
 
     }
