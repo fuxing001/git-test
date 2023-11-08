@@ -12,4 +12,6 @@ public class Hello {
     private String v3 = "第三次提交";
 
     private String v4 = "第四次提交";
+
+    private String v4_hofix = "v4_hofix第一次提交";
 }
